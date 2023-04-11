@@ -1,0 +1,31 @@
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\appsettings.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.staticwebassets.runtime.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.exe
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.deps.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.runtimeconfig.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\bin\Debug\net7.0\Trabajo Practico 1.pdb
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.csproj.AssemblyReference.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.AssemblyInfoInputs.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.AssemblyInfo.cs
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.csproj.CoreCompileInputs.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.RazorAssemblyInfo.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.RazorAssemblyInfo.cs
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\staticwebassets\msbuild.Trabajo Practico 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\staticwebassets\msbuild.build.Trabajo Practico 1.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Trabajo Practico 1.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Trabajo Practico 1.props
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\scopedcss\bundle\Trabajo Practico 1.styles.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\scopedcss\projectbundle\Trabajo Practico 1.bundle.scp.css
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\refint\Trabajo Practico 1.dll
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.pdb
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\Trabajo Practico 1.genruntimeconfig.cache
+C:\Users\No usar\Documents\HERRAMIENTAS DE PROGRAMACION\Trabajo Practico 1\obj\Debug\net7.0\ref\Trabajo Practico 1.dll
